@@ -1,6 +1,6 @@
 # python
 
-This course is based in a jupyer notebook. We will use its newest flavour named jupyterlab.
+This course is based in a jupyer notebook. We will use its newest flavour named [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/).
 
 # Prerequisites for the course:
 
