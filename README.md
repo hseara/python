@@ -16,15 +16,20 @@ This course is based in a jupyer notebook. We will use its newest flavour named 
     conda activate py38
     ```
   - Configure jupyter lab
-    - [Table of contents](https://github.com/jupyterlab/jupyterlab-toc)
+   - [Table of contents](https://github.com/jupyterlab/jupyterlab-toc)
      ```
      jupyter labextension install @jupyterlab/toc
      ```
-    - [Variable inspector](https://github.com/lckr/jupyterlab-variableInspector)
-      ``` 
-      jupyter labextension install @lckr/jupyterlab_variableinspector
-       ```
-    - Deactivate the active environment
-      ```
-      conda deactivate
-      ```
+   - [Variable inspector](https://github.com/lckr/jupyterlab-variableInspector)
+     ``` 
+     jupyter labextension install @lckr/jupyterlab_variableinspector
+     ```
+   - [pycodestyle_magic and pep8](https://github.com/mattijn/pycodestyle_magic)
+     ```
+     conda install flake8 pycodestyle
+     pip install pycodestyle_magic
+     ```
+  - Deactivate the active environment
+    ```
+    conda deactivate
+    ```
