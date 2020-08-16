@@ -13,7 +13,7 @@ This course is based in a jupyer notebook. We will use its newest flavour named 
     ```
   - Activate the environment
     ```
-    conda activate py38
+    conda activate py38-course
     ```
   - Configure jupyter lab
    - [Table of contents](https://github.com/jupyterlab/jupyterlab-toc)
