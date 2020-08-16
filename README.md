@@ -7,18 +7,24 @@ This course is based in a jupyer notebook. We will use its newest flavour named 
 - Bring your own laptop. The course should work with any laptop with either linux, MacOSX or Windows.
 - [anaconda](https://www.anaconda.com/products/individual#Downloads)
 - Course environment
-
-  - Create the environmet for the course:
+  - Install an enviroment for the course:
     ```
-    conda create --name py38 jupyterlab python=3.8 numpy matplotlib scipy pandas
+    conda create --name py38-course python=3.8 jupyterlab numpy nodejs matplotlib scipy pandas
     ```
   - Activate the environment
     ```
     conda activate py38
     ```
-  - Deactivate the active environment
-    ```
-    conda deactivate
-    ```
-
-
+  - Configure jupyter lab
+    - [Table of contents](https://github.com/jupyterlab/jupyterlab-toc)
+     ```
+     jupyter labextension install @jupyterlab/toc
+     ```
+    - [Variable inspector](https://github.com/lckr/jupyterlab-variableInspector)
+      ``` 
+      jupyter labextension install @lckr/jupyterlab_variableinspector
+       ```
+    - Deactivate the active environment
+      ```
+      conda deactivate
+      ```
