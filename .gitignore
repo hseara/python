@@ -1,0 +1,5 @@
+ 
+*.py[cod]
+
+other
+.ipynb_checkpoints
