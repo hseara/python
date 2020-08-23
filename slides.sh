@@ -8,15 +8,21 @@ jupyter nbconvert a1-04-PyIntro-functions.ipynb --to slides
 
 # Python-A2 course (PyIntro-A2)
 ###############################
-jupyter nbconvert a2-01-PyIntro-IO.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-01-PyIntro-IO.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-02-PyIntro-OptArgs.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-03-PyIntro-ComprehensionLists.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-04-PyIntro-FunctionsAdv.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-05-PyIntro-Errors.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-06-PyIntro-Serializing.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-07-PyIntro-ObjectsIntro.ipynb --to slides
 
 
 # Python-B1 course (PyInter-B1)
 ###############################
-jupyter nbconvert b1-01-PyInter-XXX.ipynb --to slides
 
 # Python-B2 course (PyInter-B2)
 ###############################
+jupyter nbconvert b2-PyInter/b2-01-PyInter-AdvPythonIntro.ipynb --to slides
 
 
 # Python-C1 course (PyAdv-C1)
