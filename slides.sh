@@ -15,12 +15,12 @@ jupyter nbconvert a2-PyIntro/a2-04-PyIntro-FunctionsAdv.ipynb --to slides
 jupyter nbconvert a2-PyIntro/a2-05-PyIntro-Exceptions.ipynb --to slides
 jupyter nbconvert a2-PyIntro/a2-06-PyIntro-Serializing.ipynb --to slides
 jupyter nbconvert a2-PyIntro/a2-07-PyIntro-ObjectsIntro.ipynb --to slides
-jupyter nbconvert a2-PyIntro/a2-08-PyIntro-modules.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-08-PyIntro-Modules.ipynb --to slides
 
 
 # Python-B1 course (PyInter-B1)
 ###############################
-jupyter nbconvert b1-PyInter/b1-01-PyInter-Assertions.ipynb --to slides
+jupyter nbconvert b1-PyInter/b1-PyInter-01-Assertions.ipynb --to slides
 
 # Python-B2 course (PyInter-B2)
 ###############################
