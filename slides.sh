@@ -10,8 +10,8 @@ jupyter nbconvert a1-PyIntro/a1-04-PyIntro-Functions.ipynb --to slides
 ###############################
 jupyter nbconvert a2-PyIntro/a2-01-PyIntro-IO.ipynb --to slides
 jupyter nbconvert a2-PyIntro/a2-02-PyIntro-OptArgs.ipynb --to slides
-jupyter nbconvert a2-PyIntro/a2-03-PyIntro-ComprehensionLists.ipynb --to slides
-jupyter nbconvert a2-PyIntro/a2-04-PyIntro-FunctionsAdv.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-03-PyIntro-FunctionsAdv.ipynb --to slides
+jupyter nbconvert a2-PyIntro/a2-04-PyIntro-ComprehensionLists.ipynb --to slides
 jupyter nbconvert a2-PyIntro/a2-05-PyIntro-Exceptions.ipynb --to slides
 jupyter nbconvert a2-PyIntro/a2-06-PyIntro-Serializing.ipynb --to slides
 jupyter nbconvert a2-PyIntro/a2-07-PyIntro-ObjectsIntro.ipynb --to slides
