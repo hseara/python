@@ -16,11 +16,11 @@ This course is based in a jupyer notebook. We will use its newest flavour named 
     conda activate py38-course
     ```
   - Configure jupyter lab
-   - [pycodestyle_magic and pep8](https://github.com/mattijn/pycodestyle_magic)
-     ```
-     conda install flake8 pycodestyle
-     pip install pycodestyle_magic
-     ```
+    - [pycodestyle_magic and pep8](https://github.com/mattijn/pycodestyle_magic)
+      ```
+      conda install flake8 pycodestyle
+      pip install pycodestyle_magic
+      ```
   - Deactivate the active environment
     ```
     conda deactivate
